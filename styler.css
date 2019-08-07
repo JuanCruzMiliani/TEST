@@ -1,0 +1,35 @@
+div.br{
+  margin: auto;
+  height: 300px;
+  width: auto;
+  background: pink;
+  margin-top: 35px;
+}
+div.gr{
+  background: white;
+  margin-top: 60px;
+  margin: auto;
+  height: 1000;
+  width: 1300px;
+}
+div.tr{
+  background: yellow;
+  height: 100px;
+  width: auto;
+  margin-top: 50px;
+}
+b.r{
+  font-family: "time new romance" ,serif;
+  background: white;
+  width: auto;
+  height: 35px;
+  text-align: center;
+}
+h1{
+  font-family: "Time New Romance", serif;
+  text-align: center;
+  color: black;
+}
+i.white{
+  color: white;
+}
