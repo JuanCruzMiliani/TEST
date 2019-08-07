@@ -1,0 +1,125 @@
+h1{
+  font-family: "Time New Romance", serif;
+  text-align: center;
+  color: black;
+}
+h2{
+  text-align: center;
+}
+p{
+  font-family: "Time New Romance", serif;
+  text-align: left;
+  font-size: 25px;
+}
+i#color{
+  color: red;
+  font-family: "Time New Romance", serif;
+}
+i#colo{
+  color: blue;
+  font-family: "Time New Romance", serif;
+}
+i#col{
+  color: brown;
+  font-family: "Time New Romance", serif;
+}
+i#co{
+  color: green;
+  font-family: "Time New Romance", serif;
+}
+i#c{
+  color: yellow;
+  font-family: "Time New Romance", serif;
+}
+h3{
+  color: purple;
+  font-family: "Time New Romance", serif;
+  font-size: 25px;
+  margin-left: 15px;
+}
+body{
+  background: black;
+  margin:16px;
+  border:;
+  padding:;.
+}
+header{
+  background: red;
+  background: repeat-x;
+}
+h4{
+  font-family: "Time New Romance", serif;
+  text-align: center;
+  color: black;
+}
+i{
+  font-family: "Time New Romance", serif;
+  color: red;
+}
+b{
+  font-family: "Time New Romance", serif;
+  color: lightblue;
+}
+div#general{
+  background: black;
+  margin-top: 60px;
+  margin: auto;
+  height: 1950px;
+  width: 1300px;
+}
+i.inicio{
+  font-family: "time new romance", serif;
+  color: black;
+  font-size: 25px;
+}
+div.body{
+  margin: auto;
+  height: 1650px;
+  width: 1250px;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQubPeEm2pgPdUQiyQ_13mgSC7376t6PkcwGWW2KW8EYJQJJ7a97g);
+  margin-top: 35px;
+}
+div.separador{
+  height: 20px;
+  width: auto;
+  background: black;
+  color: black;
+}
+div.titulo{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN42bSvx13k5oFoJAWzoF-9llPF-3V0Tz1a3ckzfpDUmieAV-q);
+  height: 75px;
+  width: 1250px;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+div.datos{
+  margin: auto;
+  height: 140px;
+  width: 1250px;
+  margin-top: 35px;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1VYE7_HbopchigFO7Djyi3RwYvV9YDPxcWt1da_DvHgC0LMLmkw);
+}
+a{
+  text-align: center;
+  height: 20px;
+  color: lightblue;
+}
+form{
+text-align: left;
+margin-left: 20px;
+font-size: 20px;
+}
+i#blanco{
+  color: white;
+}
+i#negro{
+  color: black;
+}
+p#github{
+  text-align: center;
+}
+div.respusta{
+  margin: 50px;
+  background: ;
+}
