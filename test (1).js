@@ -18,9 +18,9 @@ document.getElementById("form1").onsubmit = function () {
 
 	document.getElementById("grade").innerHTML = result;
 
-  if (resultado > 14) {result2 = alert=( sos una persona muy activa, te gusta estar en grupo, salir, y hacer deportes)};
-  if (resultado > 20 && resultado < 30) {result2 = alert=(sos una persona a la que le gusta salir ,eres culto y no tienes problemas en adrle una mano  a nadie)};
-  if (resultado  >= 30 && resultado <= 36) {result2 =alert=(sos una persona culta, que no tiene problema en ayudar  )};
-  if (resultado > 36) {result2 =alert= (sos una persona tranquila, a la que le gusta estar y hacer las cosas solo. eres reservada,y culta)};
+  if (resultado > 14) {result2 =href.location =("respuesta1.html")};
+  if (resultado > 20 && resultado < 30) {result2 = href.location =("respuesta2.html")};
+  if (resultado  >= 30 && resultado <= 36) {result2 =href.location =("respuesta3.html")};
+  if (resultado > 36) {result2 =href.location =("respuesta.html")};
 return false;
              }
